@@ -1,0 +1,6 @@
+C:\Users\Alumno\Desktop\WSSolution\WSProyecto\bin\WSProyecto.dll.config
+C:\Users\Alumno\Desktop\WSSolution\WSProyecto\bin\WSProyecto.dll
+C:\Users\Alumno\Desktop\WSSolution\WSProyecto\bin\WSProyecto.pdb
+C:\Users\Alumno\Desktop\WSSolution\WSProyecto\obj\Debug\WSProyecto.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\WSSolution\WSProyecto\obj\Debug\WSProyecto.dll
+C:\Users\Alumno\Desktop\WSSolution\WSProyecto\obj\Debug\WSProyecto.pdb
